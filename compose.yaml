@@ -1,4 +1,4 @@
-services:
+eservices:
   app:
     image: node:22.22.0
     tty: true
